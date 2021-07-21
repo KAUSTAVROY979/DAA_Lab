@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-void main()
+int main()
 {
     int n;
     cin>>n;
@@ -18,7 +18,7 @@ void main()
             cout<<"Found at index "<<i<<endl;
         }
     }
-    if(i == val)
+    if(i == n1)
     {
         cout<<"Not found"<<endl;
     }
