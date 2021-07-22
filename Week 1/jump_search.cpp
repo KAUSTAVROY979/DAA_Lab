@@ -32,7 +32,7 @@ int submain()
             return 0;
         }
     }
-    
+    cout<<"Not Present "<<count<<endl;
     return 0;
 
 }
